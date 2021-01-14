@@ -1,4 +1,3 @@
-
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -30,7 +29,7 @@ force-https: True
 
 lang: "en"
 author: "Montgomery James Kern"
-title: "MoeFix Technologies"
+title: "Mofix Technologies"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
